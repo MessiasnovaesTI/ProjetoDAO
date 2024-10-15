@@ -1,0 +1,109 @@
+### **Projeto de DAO: GreenFuture DAO**
+
+**Nome da DAO**:  
+**GreenFuture DAO**
+
+**Missão**:  
+A **GreenFuture DAO** tem como objetivo financiar e apoiar projetos ambientais e de sustentabilidade por meio da descentralização, envolvendo pessoas de diferentes partes do mundo para tomar decisões democráticas e fomentar iniciativas ecológicas. Nosso foco é promover um futuro sustentável, utilizando a tecnologia blockchain para transparência e eficiência.
+
+---
+
+### **Passos para a criação da GreenFuture DAO:**
+
+#### 1. **Descrição Geral**
+A **GreenFuture DAO** é uma organização descentralizada governada por seus membros, que podem votar e propor iniciativas voltadas à sustentabilidade e ao combate às mudanças climáticas. O financiamento para os projetos apoiados será feito via smart contracts, assegurando a segurança e a transparência do uso dos fundos.
+
+#### 2. **Entrega de Valor**
+
+**a. Token Governance**:  
+Os membros da GreenFuture DAO detêm tokens de governança, que dão o direito de votar em propostas. As decisões podem variar desde a alocação de fundos para projetos ecológicos até novas parcerias e colaborações com ONGs ambientais.
+
+**b. Liquidity Pool para Financiamento**:  
+Criar um pool de liquidez que financia diretamente os projetos selecionados pela comunidade. Esse fundo coletivo é gerido por contratos inteligentes, que distribuem os recursos com total transparência e sem intermediários.
+
+**c. Recompensas via Yield Farming Sustentável**:  
+Os membros que fornecem liquidez para o pool ou investem em projetos da DAO podem ganhar recompensas de yield farming. Essas recompensas podem ser obtidas como tokens da DAO ou criptomoedas associadas ao desenvolvimento sustentável.
+
+**d. Transparência através de Blockchain**:  
+A blockchain garante que todos os movimentos financeiros e governamentais da DAO sejam registrados e visíveis para todos, permitindo auditorias públicas e assegurando que os fundos estão sendo usados conforme votado pelos membros.
+
+---
+
+#### 3. **Estrutura de Governança**
+
+**Tokenomics**:  
+Criar um token de governança, chamado **GREEN**, que será usado para votar em propostas dentro da DAO. Cada token representa um voto, e os membros podem adquirir esses tokens ao investir no pool de liquidez ou apoiar projetos selecionados.
+
+**Propostas**:  
+Qualquer membro da DAO que detenha uma quantidade mínima de tokens **GREEN** pode criar propostas. Essas propostas podem ser votadas pela comunidade e, se aprovadas, são executadas automaticamente via smart contracts.
+
+**Reuniões e Decisões**:  
+Decisões maiores e reuniões periódicas serão organizadas em um **servidor do Discord** e na plataforma de governança DAO, como o **Snapshot.org**, onde os votos podem ser contabilizados diretamente.
+
+---
+
+#### 4. **Governança em Ação**
+
+Os processos de votação e as principais atividades serão realizados por meio de plataformas descentralizadas que não exigem uma autoridade central para operá-las.
+
+- **Snapshot**: Para a votação das propostas de governança.
+- **Aragon**: Ferramenta para a criação de contratos inteligentes e execução de decisões votadas.
+- **Gnosis Safe**: Carteira segura para o gerenciamento coletivo de fundos.
+
+---
+
+#### 5. **Roadmap de Implementação**
+
+**Etapa 1: Planejamento e Estruturação**
+- Definir as regras básicas de governança, como a quantidade de tokens necessária para criar propostas e o tempo de votação.
+- Criar o token de governança **GREEN**.
+
+**Etapa 2: Desenvolvimento Tecnológico**
+- Criar os contratos inteligentes que governarão a DAO e o pool de liquidez.
+- Desenvolver a plataforma de votação e proposta (usar **Snapshot** e **Aragon**).
+
+**Etapa 3: Lançamento**
+- Lançar a DAO e distribuir os tokens de governança **GREEN**.
+- Abrir o pool de liquidez para receber fundos e iniciar as primeiras rodadas de investimento em projetos.
+
+**Etapa 4: Crescimento e Expansão**
+- Ampliar a base de usuários e financiar projetos em todo o mundo, mantendo um alto nível de transparência.
+- Fazer parcerias com outras DAOs e ONGs.
+
+---
+
+### **Ações Impositivas Teóricas**:
+
+- **Criar um servidor Discord**:  
+Montar um espaço comunitário onde todos os membros da DAO possam se reunir e discutir as propostas antes da votação. Esse servidor será usado para a comunicação e engajamento contínuos.
+
+- **Criar um repositório GitHub**:  
+O código de todos os contratos inteligentes e os desenvolvimentos da DAO serão armazenados publicamente em um repositório no GitHub para garantir a transparência.
+
+- **Desenvolvimento de uma dApp (aplicativo descentralizado)**:  
+Essa dApp será responsável por conectar os membros à DAO, permitindo que eles acompanhem suas participações, votem em propostas e visualizem os projetos financiados.
+
+---
+
+### **Criação do Repositório GitHub**
+
+**Etapas sugeridas para a criação do repositório:**
+
+1. **Acessar GitHub**:  
+Acesse o link para criar um novo repositório: [https://github.com/new](https://github.com/new).
+
+2. **Criar um Repositório Público**:  
+Insira o nome do repositório como "GreenFuture-DAO" e defina-o como público.
+
+3. **Criar o README**:  
+Dentro do README, explique o conceito da DAO, a missão, e inclua links úteis, como:
+   - Explicações sobre tokens e governança.
+   - Links para os contratos inteligentes no Etherscan.
+   - Links para a plataforma de votação e para o site da DAO.
+
+4. **Upload dos Arquivos**:  
+Adicione os arquivos de configuração da DAO, como os smart contracts, e guias para se tornar membro da GreenFuture DAO.
+
+---
+
+Esse esqueleto oferece uma base para materializar a ideia da **GreenFuture DAO** de forma teórica. Se precisar de mais informações sobre algum dos pontos ou ajustes específicos, estou à disposição para ajudar!
